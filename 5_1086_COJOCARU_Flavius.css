@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#vieti {
+    position: fixed;
+    top: 0;
+    color: lightgray;
+    padding-left: 15px;
+}
+
+#puncte {
+    position: fixed;
+    top: 4%;
+    color: lightgray;
+    padding-left: 15px;
+}
+
+#level {
+    position: fixed;
+    top: 8%;
+    color: lightgray;
+    padding-left: 15px;
+}
+
+h1 {
+    position: fixed;
+    top: 38%;
+    left: 34%;
+    color: lightgray;
+    font-size: 86px;
+    background-color: black;
+    display: none;
+}
+
+button {
+    background-color: white;
+    color: black;
+    position: fixed;
+    top: 60%;
+    left: 42%;
+    font-size: xx-large;
+    border-radius: 15px;
+    padding: 10px;
+    display: none;
+}
